@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif');
+
+body{
+	background: red;
+	font-family: "IBM Plex Serif", Serif;
+	font-weight: 800;
+	}
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: 700;
+}
+
+div[class^="col"] {
+	padding-top: 3rem;
+
+}
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+  padding-top: 5.5rem;
+}
+
+
+.bg-lalala{background: hsl(16, 70%, 50%);}
+
+
+
+.bg-lalala:hover{;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
